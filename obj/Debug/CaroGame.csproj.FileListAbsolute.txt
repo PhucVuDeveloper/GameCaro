@@ -1,0 +1,71 @@
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\bin\Debug\CaroGame.exe.config
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\bin\Debug\CaroGame.exe
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\bin\Debug\CaroGame.pdb
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.SuggestedBindingRedirects.cache
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.exe
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.pdb
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.frmMenu.resources
+D:\Downloads\Code\CaroGame\CaroGame\bin\Debug\CaroGame.exe.config
+D:\Downloads\Code\CaroGame\CaroGame\bin\Debug\CaroGame.exe
+D:\Downloads\Code\CaroGame\CaroGame\bin\Debug\CaroGame.pdb
+D:\Downloads\Code\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+D:\Downloads\Code\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Code\CaroGame\CaroGame\obj\Debug\CaroGame.frmMenu.resources
+D:\Downloads\Code\CaroGame\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+D:\Downloads\Code\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+D:\Downloads\Code\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+D:\Downloads\Code\CaroGame\CaroGame\obj\Debug\CaroGame.exe
+D:\Downloads\Code\CaroGame\CaroGame\obj\Debug\CaroGame.pdb
+D:\Downloads\Code\CaroGame\CaroGame\obj\Debug\CaroGame.frmGameplay.resources
+D:\TTNT\CaroGame\CaroGame\CaroGame\bin\Debug\CaroGame.exe.config
+D:\TTNT\CaroGame\CaroGame\CaroGame\bin\Debug\CaroGame.exe
+D:\TTNT\CaroGame\CaroGame\CaroGame\bin\Debug\CaroGame.pdb
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.SuggestedBindingRedirects.cache
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.frmMenu.resources
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.exe
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.pdb
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.frmPvC.resources
+D:\TTNT\CaroGame\CaroGame\CaroGame\obj\Debug\CaroGame.PvP.frmPvP.resources
+D:\Downloads\Zalo\CaroGame\CaroGame\bin\Debug\CaroGame.exe.config
+D:\Downloads\Zalo\CaroGame\CaroGame\bin\Debug\CaroGame.exe
+D:\Downloads\Zalo\CaroGame\CaroGame\bin\Debug\CaroGame.pdb
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.frmMenu.resources
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.PvP.frmPvP.resources
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.exe
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.pdb
+D:\Downloads\Zalo\CaroGame\CaroGame\obj\Debug\CaroGame.PvC.frmPvC.resources
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.PvC.frmPvC.resources
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\obj\Debug\CaroGame.PvP.frmPvP.resources
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\bin\Debug\Resources\o.png
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\bin\Debug\Resources\x.png
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\bin\Debug\Resources\Caro.png
+D:\My Folder\Projects\Visual Studio\CaroGame\CaroGame\bin\Debug\Resources\background.jpg
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\bin\Debug\Resources\Caro.png
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\bin\Debug\Resources\o.png
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\bin\Debug\Resources\x.png
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\bin\Debug\Resources\background.jpg
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\bin\Debug\CaroGame.exe.config
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\bin\Debug\CaroGame.exe
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\bin\Debug\CaroGame.pdb
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\obj\Debug\CaroGame.frmMenu.resources
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\obj\Debug\CaroGame.PvC.frmPvC.resources
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\obj\Debug\CaroGame.PvP.frmPvP.resources
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\obj\Debug\CaroGame.exe
+D:\MyFolder\Projects\VisualStudio\CaroGame\CaroGame\obj\Debug\CaroGame.pdb
